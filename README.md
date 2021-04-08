@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Mobile Apps**
+- 🌐 Full Stack Web Development
 
-- 🌱 I’m currently learning **Android**
+- 📱 Learning Android Development
 
-- 👯 I’m looking to collaborate on **Web Projects**
+- 👯 Interested Working On Web Projects
 
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **jack.coder.25@gmail.com**
+- 📫 Contact Me At jack.coder.25@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,7 +42,7 @@
     <img src="https://cms-assets.tutsplus.com/uploads/users/1116/posts/24835/preview_image/mongodb-logo.png" alt="mongodb" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="mysql" width="40" height="40"/>
+    <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
