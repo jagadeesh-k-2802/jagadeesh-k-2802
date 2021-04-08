@@ -36,19 +36,16 @@
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
   </a>
    <a href="https://nodejs.org" target="_blank">
-    <img src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg" alt="nodejs" width="40" height="40"/>
+    <img src="http://cdn.codesamplez.com/wp-content/uploads/2014/09/nodejs1.png" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://vectorified.com/images/express-js-icon-20.png" alt="express" width="40" height="40"/>
   </a>
-   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+   <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cms-assets.tutsplus.com/uploads/users/1116/posts/24835/preview_image/mongodb-logo.png" alt="mongodb" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
