@@ -31,5 +31,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C/C++](https://img.shields.io/badge/-C%2FC++-00599C?style=flat-square&logo=c)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-00599C?style=flat-square&logo=adobe%20xd)
