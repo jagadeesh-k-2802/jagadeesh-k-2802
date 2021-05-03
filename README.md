@@ -26,7 +26,7 @@
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 <!-- Backend -->
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -38,6 +38,7 @@
 <!-- Other Languages -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C%2FC++-00599C?style=flat-square&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe%20xd&logoColor=white)
