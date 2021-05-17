@@ -19,14 +19,14 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
-![NextJS](https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=next.js)
+![NextJS](https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=next-dot-js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 <!-- Backend -->
-![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
