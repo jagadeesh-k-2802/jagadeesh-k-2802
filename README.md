@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jack
+# Hi 👋, I'm Jagadeesh
 
 - 🎓 Currently Pursuing CS Degree
 
