@@ -4,7 +4,7 @@
 
 - 🌐 Full Stack Web Development
 
-- 📱 Android Development
+- 📱 Mobile Development
 
 - 👯 Interested Working On Web Projects
 
