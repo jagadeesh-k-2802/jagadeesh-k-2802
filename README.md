@@ -8,7 +8,7 @@
 
 - 👯 Interested Working On Web Projects
 
-- 📫 Contact Me At jack.coder.25@gmail.com
+- 📫 Contact Me At jagadeesh.k.2802@gmail.com
 
 ## ⚡ Technologies
 
