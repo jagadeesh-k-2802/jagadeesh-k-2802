@@ -1,16 +1,10 @@
 # Hi 👋, I'm Jagadeesh
 
-- 🎓 Currently Pursuing CS Degree
-
-- 🌐 Full Stack Web Development
-
+- 🌐 Full Stack Development
 - 📱 Mobile Development
-
-- 👯 Interested Working On Web Projects
-
 - 📫 Contact Me At jagadeesh.k.2802@gmail.com
 
-## ⚡ Technologies
+# Technologies 👨🏻‍💻
 
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
