@@ -1,10 +1,11 @@
 # Hi 👋, I'm Jagadeesh
 
+- 🧑🏻‍💻 Software Engineer
 - 🌐 Full Stack Development
 - 📱 Mobile Development
-- 📫 Contact Me At jagadeesh.k.2802@gmail.com
+- 📫 Contact me At jagadeesh.k.2802@gmail.com
 
-# Technologies 👨🏻‍💻
+# Technologies 🛠️
 
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -12,7 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
 ![NextJS](https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=Next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -33,4 +33,10 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-ff7360?style=flat-square&logo=Figma&logoColor=white)
+
+# Stats 📃
+
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeesh-k-2802&layout=compact&theme=transparent)
