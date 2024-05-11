@@ -3,7 +3,8 @@
 - 🧑🏻‍💻 Software Engineer
 - 🌐 Full Stack Development
 - 📱 Mobile Development
-- 📫 Contact me At jagadeesh.k.2802@gmail.com
+- 📫 Contact Me: jagadeesh.k.2802@gmail.com
+- 🔭 My Portfolio: https://jagadeesh-k-portfolio.vercel.app
 
 # Technologies 🛠️
 
@@ -45,4 +46,4 @@
 
 # Stats 📃
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeesh-k-2802&layout=compact&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeesh-k-2802&theme=transparent&show_icons=true&layout=compact)
