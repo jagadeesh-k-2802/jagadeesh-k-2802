@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 Software Engineer
 - 🌐 Full Stack Development
-- 📱 Mobile Development
+- 📱 Mobile App Development
 - 📫 Contact Me: jagadeesh.k.2802@gmail.com
 - 🔭 My Portfolio: https://jagadeesh-k-portfolio.vercel.app
 
