@@ -1,3 +1,6 @@
+<img width="600" alt="cover-image" src="https://github.com/user-attachments/assets/aefa9572-794c-474a-95c8-41ef27e42bac" />
+
+
 # Hi 👋, I'm Jagadeesh
 
 - 🧑🏻‍💻 Software Engineer
