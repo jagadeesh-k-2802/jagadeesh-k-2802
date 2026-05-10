@@ -1,4 +1,4 @@
-<img width="750" alt="cover-image" src="https://github.com/user-attachments/assets/aefa9572-794c-474a-95c8-41ef27e42bac" />
+<img width="750" alt="cover-image" src="https://github.com/user-attachments/assets/5015bdbf-f211-466f-9657-76a54eb3315a" />
 
 
 # Hi 👋, I'm Jagadeesh
